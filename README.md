@@ -4,6 +4,21 @@ A Flutter app where users sign up, publish posts with a cover image and topics, 
 
 Built to practice **Clean Architecture**, **BLoC**, and **Supabase**.
 
+
+## 📸 Screen Shots
+
+<img width="290" height="600" alt="Sign In" src="https://github.com/user-attachments/assets/8fc09ffc-cb65-47dc-9a6a-4c869cd61578" />
+
+<img width="290" height="600" alt="SignUp" src="https://github.com/user-attachments/assets/04658730-836a-449f-ab39-3d8c31b7a37b" />
+
+<img width="290" height="600" alt="Home_screen" src="https://github.com/user-attachments/assets/6b42cce2-9959-4422-9e41-2469a1eb7aeb" />
+
+<img width="290" height="600" alt="Details_page" src="https://github.com/user-attachments/assets/221da097-37c0-4980-91a6-19d492fb002e" />
+
+<img width="290" height="600" alt="Adding Blog" src="https://github.com/user-attachments/assets/705035f8-a578-43fc-9785-feeebc634be7" />
+
+
+
 ## ✨ Features
 
 - Sign up / sign in with email and password (Supabase Auth)
@@ -25,18 +40,6 @@ Errors are returned as `Either<Failure, T>` instead of being thrown across layer
 ## 🧰 Tech Stack
 
 `flutter_bloc` · `freezed` · `get_it` + `injectable` · `fpdart` · `supabase_flutter` · `hive` · `dio` + `retrofit` · `flutter_secure_storage`
-
-## 📸 Screen Shots
-
-<img width="390" height="849" alt="Sign In" src="https://github.com/user-attachments/assets/8fc09ffc-cb65-47dc-9a6a-4c869cd61578" />
-
-<img width="386" height="848" alt="SignUp" src="https://github.com/user-attachments/assets/04658730-836a-449f-ab39-3d8c31b7a37b" />
-
-<img width="416" height="903" alt="Home_screen" src="https://github.com/user-attachments/assets/6b42cce2-9959-4422-9e41-2469a1eb7aeb" />
-
-<img width="426" height="899" alt="Details_page" src="https://github.com/user-attachments/assets/221da097-37c0-4980-91a6-19d492fb002e" />
-
-<img width="421" height="904" alt="Adding Blog" src="https://github.com/user-attachments/assets/705035f8-a578-43fc-9785-feeebc634be7" />
 
 
 ## 🚀 Getting Started
