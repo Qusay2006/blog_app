@@ -42,7 +42,7 @@ Errors are returned as `Either<Failure, T>` instead of being thrown across layer
 
 ```bash
 git clone https://github.com/QusaiMeshow/blog_app.git
-cd note_app
+cd blog_app
 flutter pub get
 dart run build_runner build --delete-conflicting-outputs
 flutter run
