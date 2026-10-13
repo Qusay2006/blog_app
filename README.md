@@ -4,19 +4,15 @@ A Flutter app where users sign up, publish posts with a cover image and topics, 
 
 Built to practice **Clean Architecture**, **BLoC**, and **Supabase**.
 
-
 ## 📸 Screen Shots
 
-<img width="290" height="600" alt="Sign In" src="https://github.com/user-attachments/assets/8fc09ffc-cb65-47dc-9a6a-4c869cd61578" />
+| Sign In | Sign Up | Home Screen |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/8fc09ffc-cb65-47dc-9a6a-4c869cd61578" width="240" /> | <img src="https://github.com/user-attachments/assets/04658730-836a-449f-ab39-3d8c31b7a37b" width="240" /> | <img src="https://github.com/user-attachments/assets/6b42cce2-9959-4422-9e41-2469a1eb7aeb" width="240" /> |
 
-<img width="290" height="600" alt="SignUp" src="https://github.com/user-attachments/assets/04658730-836a-449f-ab39-3d8c31b7a37b" />
-
-<img width="290" height="600" alt="Home_screen" src="https://github.com/user-attachments/assets/6b42cce2-9959-4422-9e41-2469a1eb7aeb" />
-
-<img width="290" height="600" alt="Details_page" src="https://github.com/user-attachments/assets/221da097-37c0-4980-91a6-19d492fb002e" />
-
-<img width="290" height="600" alt="Adding Blog" src="https://github.com/user-attachments/assets/705035f8-a578-43fc-9785-feeebc634be7" />
-
+| Details Page | Add Blog | |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/221da097-37c0-4980-91a6-19d492fb002e" width="240" /> | <img src="https://github.com/user-attachments/assets/705035f8-a578-43fc-9785-feeebc634be7" width="240" /> | |
 
 
 ## ✨ Features
@@ -61,4 +57,4 @@ Your Supabase project needs:
 
 ## 👤 Author
 
-**Qusai Meshow** · [LinkedIn](https://www.linkedin.com/in/qusay-masho-88b6a143b)
+**Qusai Meshow** · [LinkedIn](https://www.linkedin.com/in/qusay-masho-ab4a6543b/)
